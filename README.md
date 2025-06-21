@@ -34,3 +34,11 @@ An autonomous AI-powered agent that:
 
 ---
 
+You can Simply run this on Google Collab as it is not deployed but a MVP for a mini-hackathon.
+Acces the telegram bot at @attendance246_bot 
+For any queries feel free to contacat at dev.amkharbanda246@gmail.com
+
+- Devam Kharbanda
+- NIT Delhi
+- 241210037@nitdelhi.ac.in
+- Project Submision to K.A.M.A.L.A
