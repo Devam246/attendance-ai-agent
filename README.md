@@ -11,7 +11,7 @@ An autonomous AI-powered agent that:
 
 ---
 
-## 🚀 Features
+## Features
 
 -  LLM-powered HR Q&A via Telegram
 -  Absence and late detection based on defined rules
@@ -22,7 +22,7 @@ An autonomous AI-powered agent that:
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Component       | Tool / API                  |
 |----------------|-----------------------------|
